@@ -10,7 +10,7 @@ import Foundation
 
 class Model
 {
-
+//test
     
     var Location = ["Melbourne VIC",
         "Perth WA",
