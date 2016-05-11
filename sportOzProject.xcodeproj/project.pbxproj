@@ -8,17 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		435AD2571CD3326000867D3B /* AvailabilityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD2491CD3326000867D3B /* AvailabilityViewController.swift */; };
-		435AD2581CD3326000867D3B /* Bike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD24A1CD3326000867D3B /* Bike.swift */; };
-		435AD2591CD3326000867D3B /* Gear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD24B1CD3326000867D3B /* Gear.swift */; };
+		435AD2581CD3326000867D3B /* Gear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD24A1CD3326000867D3B /* Gear.swift */; };
 		435AD25A1CD3326000867D3B /* GearInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD24C1CD3326000867D3B /* GearInfoViewController.swift */; };
 		435AD25B1CD3326000867D3B /* GitHubInstructions in Resources */ = {isa = PBXBuildFile; fileRef = 435AD24D1CD3326000867D3B /* GitHubInstructions */; };
-		435AD25C1CD3326000867D3B /* Kayak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD24E1CD3326000867D3B /* Kayak.swift */; };
 		435AD25D1CD3326000867D3B /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD24F1CD3326000867D3B /* LoginViewController.swift */; };
 		435AD25E1CD3326000867D3B /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD2501CD3326000867D3B /* Model.swift */; };
 		435AD25F1CD3326000867D3B /* OptionFuncViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD2511CD3326000867D3B /* OptionFuncViewController.swift */; };
 		435AD2601CD3326000867D3B /* SelectingGearViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD2521CD3326000867D3B /* SelectingGearViewController.swift */; };
-		435AD2611CD3326000867D3B /* Standup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD2531CD3326000867D3B /* Standup.swift */; };
-		435AD2621CD3326000867D3B /* Surfboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD2541CD3326000867D3B /* Surfboard.swift */; };
 		435AD2631CD3326000867D3B /* TableViewGearOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD2551CD3326000867D3B /* TableViewGearOptions.swift */; };
 		435AD2641CD3326000867D3B /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435AD2561CD3326000867D3B /* ViewController2.swift */; };
 		43FC6AE51CD32E9A00B030B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43FC6AE41CD32E9A00B030B0 /* AppDelegate.swift */; };
@@ -50,17 +46,13 @@
 
 /* Begin PBXFileReference section */
 		435AD2491CD3326000867D3B /* AvailabilityViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AvailabilityViewController.swift; sourceTree = "<group>"; };
-		435AD24A1CD3326000867D3B /* Bike.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bike.swift; sourceTree = "<group>"; };
-		435AD24B1CD3326000867D3B /* Gear.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Gear.swift; sourceTree = "<group>"; };
+		435AD24A1CD3326000867D3B /* Gear.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Gear.swift; sourceTree = "<group>"; };
 		435AD24C1CD3326000867D3B /* GearInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GearInfoViewController.swift; sourceTree = "<group>"; };
 		435AD24D1CD3326000867D3B /* GitHubInstructions */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = GitHubInstructions; sourceTree = "<group>"; };
-		435AD24E1CD3326000867D3B /* Kayak.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Kayak.swift; sourceTree = "<group>"; };
 		435AD24F1CD3326000867D3B /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		435AD2501CD3326000867D3B /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		435AD2511CD3326000867D3B /* OptionFuncViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionFuncViewController.swift; sourceTree = "<group>"; };
 		435AD2521CD3326000867D3B /* SelectingGearViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectingGearViewController.swift; sourceTree = "<group>"; };
-		435AD2531CD3326000867D3B /* Standup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Standup.swift; sourceTree = "<group>"; };
-		435AD2541CD3326000867D3B /* Surfboard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Surfboard.swift; sourceTree = "<group>"; };
 		435AD2551CD3326000867D3B /* TableViewGearOptions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewGearOptions.swift; sourceTree = "<group>"; };
 		435AD2561CD3326000867D3B /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		43FC6AE11CD32E9A00B030B0 /* sportOzProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sportOzProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -104,6 +96,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		435AD2651CD3375300867D3B /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				435AD2501CD3326000867D3B /* Model.swift */,
+				435AD24A1CD3326000867D3B /* Gear.swift */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		435AD2661CD3378900867D3B /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				435AD24C1CD3326000867D3B /* GearInfoViewController.swift */,
+				435AD24F1CD3326000867D3B /* LoginViewController.swift */,
+				435AD2511CD3326000867D3B /* OptionFuncViewController.swift */,
+				435AD2521CD3326000867D3B /* SelectingGearViewController.swift */,
+				435AD2551CD3326000867D3B /* TableViewGearOptions.swift */,
+				435AD2561CD3326000867D3B /* ViewController2.swift */,
+				43FC6AE61CD32E9A00B030B0 /* ViewController.swift */,
+				435AD2491CD3326000867D3B /* AvailabilityViewController.swift */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
 		43FC6AD81CD32E9A00B030B0 = {
 			isa = PBXGroup;
 			children = (
@@ -127,22 +143,10 @@
 		43FC6AE31CD32E9A00B030B0 /* sportOzProject */ = {
 			isa = PBXGroup;
 			children = (
-				435AD2491CD3326000867D3B /* AvailabilityViewController.swift */,
-				435AD24A1CD3326000867D3B /* Bike.swift */,
-				435AD24B1CD3326000867D3B /* Gear.swift */,
-				435AD24C1CD3326000867D3B /* GearInfoViewController.swift */,
+				435AD2661CD3378900867D3B /* ViewControllers */,
+				435AD2651CD3375300867D3B /* Models */,
 				435AD24D1CD3326000867D3B /* GitHubInstructions */,
-				435AD24E1CD3326000867D3B /* Kayak.swift */,
-				435AD24F1CD3326000867D3B /* LoginViewController.swift */,
-				435AD2501CD3326000867D3B /* Model.swift */,
-				435AD2511CD3326000867D3B /* OptionFuncViewController.swift */,
-				435AD2521CD3326000867D3B /* SelectingGearViewController.swift */,
-				435AD2531CD3326000867D3B /* Standup.swift */,
-				435AD2541CD3326000867D3B /* Surfboard.swift */,
-				435AD2551CD3326000867D3B /* TableViewGearOptions.swift */,
-				435AD2561CD3326000867D3B /* ViewController2.swift */,
 				43FC6AE41CD32E9A00B030B0 /* AppDelegate.swift */,
-				43FC6AE61CD32E9A00B030B0 /* ViewController.swift */,
 				43FC6AE81CD32E9A00B030B0 /* Main.storyboard */,
 				43FC6AEE1CD32E9A00B030B0 /* Assets.xcassets */,
 				43FC6AF01CD32E9A00B030B0 /* LaunchScreen.storyboard */,
@@ -308,16 +312,12 @@
 				435AD25F1CD3326000867D3B /* OptionFuncViewController.swift in Sources */,
 				43FC6AED1CD32E9A00B030B0 /* sportOzProject.xcdatamodeld in Sources */,
 				43FC6AE71CD32E9A00B030B0 /* ViewController.swift in Sources */,
-				435AD2591CD3326000867D3B /* Gear.swift in Sources */,
 				435AD2631CD3326000867D3B /* TableViewGearOptions.swift in Sources */,
-				435AD2621CD3326000867D3B /* Surfboard.swift in Sources */,
-				435AD2581CD3326000867D3B /* Bike.swift in Sources */,
-				435AD2611CD3326000867D3B /* Standup.swift in Sources */,
+				435AD2581CD3326000867D3B /* Gear.swift in Sources */,
 				435AD25E1CD3326000867D3B /* Model.swift in Sources */,
 				435AD2571CD3326000867D3B /* AvailabilityViewController.swift in Sources */,
 				435AD25A1CD3326000867D3B /* GearInfoViewController.swift in Sources */,
 				43FC6AE51CD32E9A00B030B0 /* AppDelegate.swift in Sources */,
-				435AD25C1CD3326000867D3B /* Kayak.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,5 +1,5 @@
 //
-//  Gear.swift
+//  Bike.swift
 //  sportOz
 //
 //  Created by Lucas Hauptmann Pereira on 10/04/2016.
@@ -8,11 +8,8 @@
 
 import Foundation
 
-class Gear
-{
-    var Type: String = ""
-    var Location: String = ""
-    var Adress: String = ""
-    var Price: Float = 0.0
+class Gear{
+    
+    var gearType = ""
     
 }
